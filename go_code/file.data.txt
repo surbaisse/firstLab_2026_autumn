@@ -1,0 +1,3 @@
+ForwardList List2
+SIZE 1
+ITEM END
